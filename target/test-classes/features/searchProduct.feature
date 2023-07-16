@@ -1,5 +1,7 @@
 Feature: Search and place the order for products
 
+
+@OffersPage
 Scenario Outline: Search experience for product search in both home and offer pages
 
 
